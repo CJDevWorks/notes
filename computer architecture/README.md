@@ -1,0 +1,1 @@
+Accumulator (EAX), Counter (ECX), Data (EDX), Base (EBX), Stack Pointer (ESP), Base Pointer (EBP), Source Index (ESI), and Destination Index (EDI) registers. But sometimes we may use Stack Pointer (ESP) or Instruction Pointer (EIP) registers,
