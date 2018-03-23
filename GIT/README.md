@@ -1,3 +1,27 @@
+ ***Usage***
+==============
+
+git config.
+1)system (/etc/gitconfig  or Program Files\GIT\etc\gitconfig)
+2)user (~/.gitconfig  or $HOME\.gitconfig)
+3)project (my_project/.git/config)
+
+command :
+1. system : git config --system
+2. user : git config --global
+3. project : git config
+
+eg:
+#change user
+git config --global user.name="Chandrajeet Singh"
+git config --global user.email="dndalabs@gmail.com"
+
+#list
+git config --list
+cat .gitconfig
+
+#set text editor
+git config --global core.editor="atom"
 
 **Distributed vs. Centralized Version Control Systems**
 
