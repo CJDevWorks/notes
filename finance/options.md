@@ -45,11 +45,15 @@ Why would any one be a Seller :
     - Buyer limited loss and unlimited profit.
 Then Why to Sell ??
 
+- Sell OTM option probability is higher - less premium but more chances
+
 - Burden of price movement
 - Break-even is otm
 - Time decay
 - Probability is on seller side (due to price buffer)
 
+-- Covered call stretegy
+ 
 Why to be a buyer of ITM option?
 
 
@@ -69,6 +73,14 @@ Difference between stock volatility and options volatility?
 Historical volatility
 Implied volatility based on demand and supply in market
 
+- Implied volatility is a measurement used in the Black-Scholes Model, used to calculate option prices.
+- Volatility measures the magnitude of a potential price change in an underlying.
+- High Implied Volatility = Stock Price is Less Stable, increases extrinsic value of option prices across the board.
+- Low Implied Volatility = Stock Price is More Stable, decreases extrinsic value of option prices across the board.
+- Implied volatility rank (IVR) allows you to put context around current implied volatility levels.
+dough takes the lowest IV & highest IV level over a specified timeframe and ranks current IV against that range to determine IV rank.
+
+
 VIX Index:
 ===========
 
@@ -84,6 +96,7 @@ Understand individual impact and then collective impact :
 **Delta**
 
  If the underlying price is moved by one dollar value then whats the impact on option/portfolio pnl :
+
 What is DV01 ?
 - Rate of change of price (first of price)
 call (0-1) =>
