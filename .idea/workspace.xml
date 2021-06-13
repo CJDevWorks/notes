@@ -10,42 +10,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb373f5-0ca7-4c17-9bac-afee4aeb1e1b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/Interview Questions.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/Trading Bonds.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/Trading Stocks.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/Trading options.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/Trading with Conditional Orders.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/pricing/Curve_Construction.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/pricing/EquityDerivsPractice_PSet3 (1).xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/pricing/bond_pricing.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/pricing/cornfutures (1).xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/pricing/fx_pricing.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/Commodities.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/Equities.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/EquityDerivsInPractice_I.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/FX_FLOW_FUT_FWD_NDF.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/floating_rate_and_term_structure.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/forwards.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/finance/theory/futures.pdf" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Finance/Options.md" afterPath="$PROJECT_DIR$/Finance/Options.md" />
-      <change beforePath="$PROJECT_DIR$/finance/bond_pricing.md" afterPath="$PROJECT_DIR$/finance/Interview Questions.md" />
-      <change beforePath="$PROJECT_DIR$/finance/call_options_expiry_settlement.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/finance/call_options_expiry_settlement.jpg" afterPath="$PROJECT_DIR$/finance/theory/call_options_expiry_settlement.jpg" />
-      <change beforePath="$PROJECT_DIR$/finance/call_options_summary.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/finance/call_options_summary.jpg" afterPath="$PROJECT_DIR$/finance/theory/call_options_summary.jpg" />
-      <change beforePath="$PROJECT_DIR$/finance/fx_pricing.md" afterPath="$PROJECT_DIR$/finance/Trading Bonds.md" />
-      <change beforePath="$PROJECT_DIR$/finance/types_of_order.md" afterPath="$PROJECT_DIR$/finance/types_of_order.md" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/BFS-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Basics and Representation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Connected Components-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Cycle Detection techniques-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/DFS-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/SP_A_STAR-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/SP_Dijkstra_Algorithm-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/TOPOLOGICAL_SORT-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/BFS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Basics and Representation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Connected Components.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Cycle Detection techniques.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/DFS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/SP_A_STAR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/SP_Dijkstra_Algorithm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/TOPOLOGICAL_SORT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Graph.md" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +62,7 @@
     <option name="width" value="1361" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1tC7orcA6yz5dkjdRqNlxMf8bmo" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -88,6 +76,9 @@
         </expanded-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -134,11 +125,18 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -153,21 +151,7 @@
       <recent name="C:\Programming\Programming Fundas\notes\finance\theory" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -216,12 +200,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/finance/Interview Questions.md">
