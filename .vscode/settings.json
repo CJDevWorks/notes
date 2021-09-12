@@ -1,0 +1,16 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "python.pythonPath": "C:\\Users\\csingh\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Default High Contrast",
+    "workbench.preferredLightColorTheme": "Default High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "jira-plugin.workingProject": ""
+}

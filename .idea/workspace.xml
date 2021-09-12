@@ -10,24 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb373f5-0ca7-4c17-9bac-afee4aeb1e1b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/BFS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Basics and Representation-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Connected Components-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/Cycle Detection techniques-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/DFS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/SP_A_STAR-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/SP_Dijkstra_Algorithm-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/.ipynb_checkpoints/TOPOLOGICAL_SORT-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/BFS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Basics and Representation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Connected Components.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/Cycle Detection techniques.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/DFS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/SP_A_STAR.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/SP_Dijkstra_Algorithm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Graph/TOPOLOGICAL_SORT.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CD-CI/anaconda_conda_pip_and_virtualenv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Graph.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +194,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

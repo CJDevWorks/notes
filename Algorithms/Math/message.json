@@ -1,0 +1,116 @@
+{
+    "mccm_subscriber_profile_response": {
+        "entity_header": {
+            "entity_id": "1696240523",
+            "entity_name": "mccm_subscriber_profile",
+            "ts": "2021-07-30T05:13:32.595461+00:00",
+            "subset_name": ""
+        },
+        "entity_payload": {
+            "entity_id": "1696240523",
+            "customer": {
+                "brand": "XL",
+                "msisdn": null,
+                "payment_category": "PRE ",
+                "mttr": null,
+                "mttp": null,
+                "pym_cat_id": 2,
+                "sp_flag": "N",
+                "status": "GRACE ",
+                "price_plan_id": 19999,
+                "ro_flag": null,
+                "estimated_balance": 1660
+            },
+            "geo": {
+                "gis_code": 19999,
+                "poc_code": "BD0",
+                "strategic_area": null,
+                "poc_name": "Bandung",
+                "sub_region_code": 19999,
+                "region_code": "3000000",
+                "city": "Bandung",
+                "sub_region_name": "Bandung",
+                "region_name": "CENTRAL"
+            },
+            "kpis": {
+                "voice_d1": null,
+                "voice_h1": null,
+                "data_m1": null,
+                "data_h1": null,
+                "max_data_m3": null,
+                "pack_pur_d1": null,
+                "last_voice_date": null,
+                "last_reload_date": null,
+                "last_pack_pur_date": "2019-12-27",
+                "swe_churn_12": null,
+                "last_data_date": null,
+                "swe_churn_3": null,
+                "mttr": null,
+                "mttp": null,
+                "dwg_m1": null,
+                "dominant_4g_flag": null,
+                "last_sms_date": null,
+                "dwv_m1": null,
+                "tenure_decile": "2",
+                "last_event_date": null,
+                "dominant_3g_flag": null,
+                "arpu_decile": null,
+                "swe_churn_all": null,
+                "dwe_m1": null,
+                "swe_churn_24": null,
+                "dws_m1": null,
+                "pack_pur_h1": null,
+                "reload_h1": null,
+                "reload_d1": null,
+                "dsle": null,
+                "dslg": null,
+                "dslp": null,
+                "dslr": null,
+                "dsls": null,
+                "dslv": null,
+                "arpup": [
+                    0,
+                    0,
+                    0
+                ],
+                "arpur": [
+                    0,
+                    0,
+                    0
+                ],
+                "rev_adj1_factor_subscriber": null,
+                "max_data_m3_alt": null,
+                "rev_adj1_factor": null,
+                "rev_adj2_factor": null,
+                "rev_adj1_match": null,
+                "rev_adj2_match": null,
+                "rev_adj1_channels": null,
+                "rev_adj2_channels": null
+            },
+            "loans": {
+                "current_loan_amount": null,
+                "iou_is_opted_out": null,
+                "is_eligible_iou": null,
+                "tcl": null,
+                "risk_iou": null
+            },
+            "packets": {
+                "thn_active": null,
+                "pack_quota_remaining": null
+            },
+            "preferences": {
+                "iou_preferred_channel": null,
+                "preferred_channel": null
+            },
+            "segmentation": {
+                "is_gcg": null,
+                "swe_journey": null
+            },
+            "tenure": {
+                "days": null,
+                "grace_date": null,
+                "expire_date": null
+            }
+        }
+    }
+}
